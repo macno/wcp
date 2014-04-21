@@ -1,0 +1,383 @@
+[
+{
+  "id": "groupa",
+  "name": "Group A",
+  "teams": [{
+    "id": "bra",
+    "name": "Brazil",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "cro",
+    "name": "Croatia",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "mex",
+    "name": "Mexico",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "cmr",
+    "name": "Cameron",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},
+  {
+  "id": "groupb",
+  "name": "Group B",
+  "teams": [{
+    "id": "esp",
+    "name": "Spain",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "ned",
+    "name": "Netherlands",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "chi",
+    "name": "Chile",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "aus",
+    "name": "Australia",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},
+  {
+  "id": "groupc",
+  "name": "Group C",
+  "teams": [{
+    "id": "col",
+    "name": "Colombia",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "gre",
+    "name": "Greece",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "civ",
+    "name": "Côte d'Ivoire",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "jap",
+    "name": "Japan",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},
+  {
+  "id": "groupd",
+  "name": "Group D",
+  "teams": [{
+    "id": "uru",
+    "name": "Uruguay",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "crc",
+    "name": "Costa Rica",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "eng",
+    "name": "England",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "ita",
+    "name": "Italy",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},{
+  "id": "groupe",
+  "name": "Group E",
+  "teams": [{
+    "id": "swi",
+    "name": "Switzerland",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "ecu",
+    "name": "Ecuador",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "fra",
+    "name": "France",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "hon",
+    "name": "Honduras",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},{
+  "id": "groupf",
+  "name": "Group F",
+  "teams": [{
+    "id": "arg",
+    "name": "Argentina",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "bih",
+    "name": "Bosnia and Herzegovina",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "irn",
+    "name": "Iran",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "nga",
+    "name": "Nigeria",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},{
+  "id": "groupg",
+  "name": "Group G",
+  "teams": [{
+    "id": "ger",
+    "name": "Germany",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "por",
+    "name": "Bosnia and Herzegovina",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "gha",
+    "name": "Ghana",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "usa",
+    "name": "USA",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]},{
+  "id": "grouph",
+  "name": "Group H",
+  "teams": [{
+    "id": "bel",
+    "name": "Belgium",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "alg",
+    "name": "Algeria",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "rus",
+    "name": "Russia",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    },
+    {
+    "id": "kor",
+    "name": "Korea Republic",
+    "pts": 0,
+    "mp": 0,
+    "w": 0,
+    "d": 0,
+    "l": 0,
+    "gf": 0,
+    "ga": 0
+    }
+  ]}
+  
+  ]

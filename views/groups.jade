@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+
+  .container-fluid
+    
+  - for(var i=0;i<groups.length;i++) {
+      .row(id=groups[i].id)
+        h3= groups[i].name
+  - }
